@@ -1,5 +1,5 @@
 # Summary
-SQL injection in the `search` parameter of `SEMCMS_Images.php`.
+**SQL injection** in the `search` parameter of `SEMCMS_Images.php`.
 
 # Details
 The vulnerability trigger point is here:
