@@ -1,5 +1,5 @@
 # Summary
-"SourceCodester Purchase Order Management System v1.0" was found to have an arbitrary file upload vulnerability.
+`SourceCodester Purchase Order Management System v1.0` was found to have an **arbitrary file upload vulnerability**.
 An attacker can upload a specially crafted file to gain access to the website.
 
 # Details
