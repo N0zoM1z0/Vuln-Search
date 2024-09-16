@@ -1,5 +1,5 @@
 # Summary
-SQL injection in the "search" parameter of "SEMCMS_Products.php".
+**SQL injection** in the `search` parameter of `SEMCMS_Products.php`.
 
 # Details
 Vulnerability trigger point:
