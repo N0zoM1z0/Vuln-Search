@@ -87,6 +87,8 @@ while True:
 ```
 
 # Discoverer
+ylqncepu@163.com
+
 https://github.com/N0zoM1z0
 
 Li Chunan(804242129@qq.com)
