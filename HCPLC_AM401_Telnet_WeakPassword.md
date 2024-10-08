@@ -1,0 +1,21 @@
+# Summary
+Inovance AM401 PLC telnet has a weak password vulnerability, attackers can log in to the PLC device through the weak password
+# Details
+Connectivity test of the device:
+![image](https://github.com/user-attachments/assets/44cff17b-8e33-4452-a99a-361b0d14bd49)
+
+Telnet to the device:
+```bash
+telnet 192.168.1.88
+```
+Log in with a weak password, username root, and a blank password.
+
+
+# PoC
+username: root
+password: (None)
+
+# Discoverer
+https://github.com/N0zoM1z0
+
+Li Chunan(804242129@qq.com)
