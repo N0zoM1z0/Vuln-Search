@@ -38,6 +38,8 @@ s.send(data)
 ```
 
 # Discoverer
+ylqncepu@163.com
+
 Li Chunan(804242129@qq.com)
 
 https://github.com/N0zoM1z0
