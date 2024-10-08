@@ -83,6 +83,8 @@ while True:
     cur = (cur + 1) % MAX_LEN
 ```
 # Discoverer
+ylqncepu@163.com
+
 https://github.com/N0zoM1z0
 
 Li Chunan(804242129@qq.com)
