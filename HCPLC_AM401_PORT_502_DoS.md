@@ -1,7 +1,7 @@
 # Summary
 There is a denial of service vulnerability in port 502 of Inovance AM401 PLC. An attacker can send a large number of modbus protocol data packets to cause the PLC to crash.
 
-# Detail
+# Details
 My host ip:![image](https://github.com/user-attachments/assets/7a6cd389-bddb-43c9-994c-5356f3468745)
 
 Connectivity test of the device:
