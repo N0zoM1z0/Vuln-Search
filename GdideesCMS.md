@@ -1,6 +1,6 @@
 # Summary
 GDidees CMS **v3.9.1 and lower** versions were found to have an **arbitrary file upload vulnerability**.
-After logging in, the attacker can upload any file and gain control of the website
+After logging in, the attacker can upload any file and gain control of the website.
 
 # Details
 
