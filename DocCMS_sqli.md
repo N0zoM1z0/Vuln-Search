@@ -3,6 +3,7 @@ DocCMS2016(http://doccms.com/?p=40) has a SQL injection vulnerability at `/searc
 
 # Analyze
 You can get the source code of the website here: https://gitee.com/husky/DocCMS/releases/download/2016/DocCms-20160517.rar
+
 In `content\search\index.php`:
 ![image](https://github.com/user-attachments/assets/8d470560-22d2-4d7c-8198-b640d625254e)
 
