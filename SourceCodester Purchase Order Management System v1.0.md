@@ -4,6 +4,7 @@ An attacker can upload a specially crafted file to gain access to the website.
 
 # Analyze
 You can download source file at this link:"https://www.sourcecodester.com/sites/default/files/download/oretnom23/purchase_order.zip".
+
 We enter this web page interface, choose to modify the avatar, and burpsuite captures the package when uploading:
 ![image](https://github.com/user-attachments/assets/9db6cbdd-25e7-4909-9866-490bea247a62)
 ![image](https://github.com/user-attachments/assets/26dc20b5-97ed-4c09-93f4-684c0d803c67)
