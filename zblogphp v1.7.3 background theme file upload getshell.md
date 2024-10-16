@@ -5,6 +5,8 @@ Affected versions:
 - zblogphp <= v1.7.3-3230
 
 # Details
+Source code can be downloaded from: https://github.com/zblogcn/zblogphp/releases/download/v1.7.3-3230/zblogphp.zip .
+
 After logging in as an administrator, you can upload custom themes here:
 ![image](https://github.com/user-attachments/assets/577d0bc3-38d4-4cc4-be96-8f81b3699700)
 
