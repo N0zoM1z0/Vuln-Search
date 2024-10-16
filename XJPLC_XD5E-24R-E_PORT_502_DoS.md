@@ -28,6 +28,9 @@ Python script from here : https://github.com/N0zoM1z0/MY-FUZZ .
 Just change the `CONFIG.py` to reproduce:
 ![image](https://github.com/user-attachments/assets/a151f710-dc7f-494e-b45f-d78cbd3568e1)
 
+To work more efficiently, you can set the time gap smaller like this:
+![image](https://github.com/user-attachments/assets/79b7efe6-18da-4306-b9b4-3680551d0ed0)
+
 And then
 ```
 python3 fuzz.py
