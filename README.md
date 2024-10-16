@@ -1,5 +1,5 @@
 # Vuln-Search
-Record 
+A record of some of my security research.
 
 ## Verified
 - [ ] GdideesCMS.md - `CVE-2024-46101`
