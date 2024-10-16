@@ -16,8 +16,6 @@ Soon you will see the device crash.
 
 And I upload this pcapng file: https://github.com/N0zoM1z0/Vuln-Search/blob/main/XD5E-24R-E-Crashed.pcapng
 
-![image](https://github.com/user-attachments/assets/8c3c17f2-2deb-458c-ad21-57418130d816)
-
 ![image](https://github.com/user-attachments/assets/d899597b-4214-4960-bd99-52ba42a3c858)
 
 ![image](https://github.com/user-attachments/assets/65c07cbf-f527-42de-b5d2-27f55d1113e6)
