@@ -2,7 +2,7 @@
 SourceCodester Best Fee Management System Project has a CSRF vulnerability in `/click_fees/index.php?page=studens`, which allows attackers to trick administrators who are logged into the site to delete student information.
 
 # Details
-In url : `/click_fees/index.php?page=studens`
+In url : `/click_fees/index.php?page=students`
 Choose module `Students` and choose option `delete`:
 ![image](https://github.com/user-attachments/assets/8d362cb6-5960-4267-8229-33dfa5bc9bf3)
 
