@@ -1,5 +1,6 @@
 # Summary
 There is a CSRF vulnerablity in `Insurance Management System` (https://www.sourcecodester.com/php/16995/insurance-management-system-php-mysql.html).
+`/Script/admin/core/update_password`
 
 This vulnerability allows attackers to use carefully constructed HTML pages to trick administrators into clicking and then modify the administrator's password.
 
