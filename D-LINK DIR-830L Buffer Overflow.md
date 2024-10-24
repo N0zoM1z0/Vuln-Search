@@ -25,8 +25,9 @@ ccp_act=cancelPing&nextPage=xxxx
 Notice that `char v10[260]`, for the reason that we just give PoC, a large packet is ok.
 
 PoC:
+
 It should be noticed that:
-1. **Login** first(Defalut empty password) to get your cookie.
+1. **Login** first(Default empty password) to get your cookie.
 2. Send the packet **twice**.
 
 ```html
