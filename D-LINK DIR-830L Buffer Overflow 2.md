@@ -4,6 +4,8 @@ There is a buffer overflow vulnerability in `ncc2` binary file of D-Link DIR830L
 Fimware download link : 
 https://legacyfiles.us.dlink.com/DIR-830L/REVA/FIRMWARE/DIR-830L_REVA_FIRMWARE_1.00B07.ZIP
 
+Affected component is `setStorage` module in `sbin/ncc2` binary file.
+
 # Details
 Using IDA to decompile `ncc2` file, in `sub_450E7C` function,
 vulnerable code:
