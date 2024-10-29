@@ -1,5 +1,5 @@
 # Summary
-There is a command execution vulnerability in TOTOLINK X6000R(https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/247/ids/36.html).
+There is a command execution vulnerability in TOTOLINK X6000R V9.4.0cu.852_B20230719(https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/247/ids/36.html).
 
 Affected component is parameter **`stunMaxAlive`** of `sub_4119A0` function in `/usr/sbin/shttpd` binary file.
 
