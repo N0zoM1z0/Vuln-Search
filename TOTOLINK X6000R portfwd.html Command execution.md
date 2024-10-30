@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0898a98e-b1c3-4bec-adc5-fe8bb10e3da3)# Summary
+# Summary
 There is a command execution vulnerability in TOTOLINK X6000R V9.4.0cu.852_B20230719(https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/247/ids/36.html).
 
 Affected component is "/advance/portfwd.html".
