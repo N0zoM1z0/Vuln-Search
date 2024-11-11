@@ -1,5 +1,5 @@
 # Summary
-There is a memory leak vulnerability in apng2git-1.7.1.
+There is a memory leak vulnerability in apng2gif-1.7.1.
 
 https://apng2gif.sourceforge.net/
 
